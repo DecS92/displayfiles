@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 100 100"
+   xml:space="preserve"
+   sodipodi:docname="StorageTankBalcas.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata3957"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3955" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview3953"
+   showgrid="false"
+   inkscape:zoom="6.675088"
+   inkscape:cx="36.675132"
+   inkscape:cy="49.286691"
+   inkscape:window-x="-9"
+   inkscape:window-y="1341"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="layer1" /><desc
+   id="desc3921">Copyright Opto 22</desc> <svg
+   version="1.1"
+   id="svg3950"
+   width="100%"
+   height="100%"><g
+     id="g3948">
+	<g
+   id="shape">
+		<path
+   d="M 50.007,0 C 30.087,0 13.939,3.364 13.939,7.514 v 54.102 c 0,0.647 0.393,1.276 1.132,1.875 l 0.644,0.53 V 100 h 7.889 V 70.521 l 20.571,16.948 c 0.655,0.544 3.017,0.947 5.831,0.947 2.695,0 4.975,-0.369 5.739,-0.878 L 74.697,71.928 V 100 h 7.889 V 65.43 l 2.326,-1.916 c 0.758,-0.606 1.161,-1.243 1.161,-1.899 V 7.514 C 86.074,3.364 69.926,0 50.007,0 Z"
+   id="path3923"
+   inkscape:connector-curvature="0"
+   style="fill:#999999" />
+	</g>
+	<g
+   id="dark">
+		<path
+   d="M 50.007,69.13 C 39.58,69.13 30.19,68.208 23.604,66.734 v 3.787 l 20.571,16.948 c 0.655,0.544 3.017,0.947 5.831,0.947 2.695,0 4.975,-0.369 5.739,-0.878 l 18.952,-15.61 v -4.837 c -6.453,1.264 -15.136,2.039 -24.69,2.039 z"
+   id="path3926"
+   inkscape:connector-curvature="0"
+   style="fill:#666666" />
+		<rect
+   x="21.35"
+   y="52.662998"
+   width="2.2539999"
+   height="47.337002"
+   id="rect3928"
+   style="fill:#666666" /> 
+		<rect
+   x="80.333"
+   y="52.662998"
+   width="2.2539999"
+   height="47.337002"
+   id="rect3930"
+   style="fill:#666666" /> 
+	</g>
+	<g
+   id="light">
+		<ellipse
+   cx="50.007"
+   cy="7.5139999"
+   rx="36.068001"
+   ry="7.5139999"
+   id="ellipse3933"
+   style="fill:#cccccc" />
+		<polygon
+   points="75.636,53.671 75.636,100 74.697,100 74.697,52.663 80.333,52.663 80.333,53.671 "
+   id="polygon3935"
+   style="fill:#cccccc" />
+	</g>
+	<g
+   id="shadow">
+		<polygon
+   points="53.25,87.914 55.315,87.914 75.033,71.359 75.033,67.109 "
+   id="polygon3938"
+   style="fill:#666666" />
+		<path
+   d="m 83.587,10.255 v 54.351 l 1.326,-1.092 c 0.758,-0.607 1.161,-1.243 1.161,-1.899 V 7.514 c 0,0.968 -0.887,1.892 -2.487,2.741 z"
+   id="path3940"
+   inkscape:connector-curvature="0"
+   style="fill:#666666" /> 
+	</g>
+	<g
+   id="hlight">
+		<ellipse
+   cx="28.436001"
+   cy="5.072"
+   rx="9.9189997"
+   ry="2.066"
+   id="ellipse3943"
+   style="fill:#cccccc" />
+		<polygon
+   points="16.653,53.671 16.653,100 15.715,100 15.715,52.663 21.35,52.663 21.35,53.671 "
+   id="polygon3945"
+   style="fill:#cccccc" />
+	</g>
+</g></svg><g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="TAG!"><text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:23.06361008px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57659024"
+     x="0.25788191"
+     y="4.5050812"
+     id="text3962"
+     transform="scale(0.94541204,1.0577399)"><tspan
+       sodipodi:role="line"
+       id="tspan3960"
+       x="0.25788191"
+       y="4.5050812"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.15029621px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.57659024">Tag1</tspan></text>
+</g></svg>
